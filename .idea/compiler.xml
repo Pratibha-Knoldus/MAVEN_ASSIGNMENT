@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="string-api" />
         <module name="string-impl" />
+        <module name="assign" />
       </profile>
     </annotationProcessing>
   </component>
